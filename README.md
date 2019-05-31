@@ -6,19 +6,6 @@
   <a href="https://gitee.com/macrozheng/mall-admin-web"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E7%A0%81%E4%BA%91-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-orange.svg" alt="码云"></a>
 </p>
 
-## 前言
-
-该项目为前后端分离项目的前端部分，后端项目`mall`地址：[传送门](https://github.com/macrozheng/mall)。
-
-## 特别赞助商
-
-> 本项目已由`CODING`特别赞助，支持的可以点下赞助商链接，探索下功能即可，谢谢！
-
-<p align="left">
-<a href="https://coding.net/?utm_source=macrozheng&utm_medium=banner&utm_campaign=march2019" target="_blank">
-  <img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/coding.png" width=""/>
- </a>
-</p>
 
 ## 项目介绍
 
@@ -76,8 +63,3 @@ src -- 源码目录
 - 访问地址：[http://localhost:8090](http://localhost:8090) 即可打开后台管理系统页面;
 - 如果遇到无法运行该命令，需要配置npm的环境变量，如在path变量中添加：C:\Users\zhenghong\AppData\Roaming\npm。
 
-## 许可证
-
-[Apache License 2.0](https://github.com/macrozheng/mall-admin-web/blob/master/LICENSE)
-
-Copyright (c) 2018-2019 macrozheng
